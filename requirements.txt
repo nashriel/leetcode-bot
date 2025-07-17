@@ -1,0 +1,6 @@
+requests
+pyyaml
+gitpython
+beautifulsoup4
+playwright
+PyGithub

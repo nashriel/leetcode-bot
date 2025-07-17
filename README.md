@@ -1,2 +1,3 @@
-# leetcode-bot
-Automated bot to solve LeetCode problems, submit solutions, and sync to GitHub
+# 🤖 LeetCode Bot
+
+Automates solving, submitting, and syncing LeetCode problems with GitHub.

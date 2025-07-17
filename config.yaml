@@ -1,0 +1,7 @@
+leetcode:
+  username: YOUR_USERNAME
+  password: YOUR_PASSWORD
+
+github:
+  token: YOUR_GITHUB_TOKEN
+  repo: YOUR_USERNAME/leetcode-bot
